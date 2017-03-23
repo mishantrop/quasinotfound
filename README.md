@@ -1,2 +1,2 @@
 # quasiNotFound #
-quasiNotFound is a simple plugin that handles requests and records with code 404.
+quasiNotFound is a simple plugin that handles requests with code 404 and records them.

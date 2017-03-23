@@ -1,0 +1,5 @@
+Changelog for quasiNotFound.
+
+quasiNotFound 1.3.0 pl
+==============
+* Initial commit.
